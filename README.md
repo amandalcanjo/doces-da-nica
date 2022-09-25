@@ -13,7 +13,7 @@ Projeto de loja de doces. O projeto foi criado usando componentes de css, js e w
 
 ## Layout 💗
 
-![gif](https://user-images.githubusercontent.com/81193788/192073759-e656da96-b776-4d9f-adbe-0af3f2078b3d.gif)
+![cakes](https://user-images.githubusercontent.com/81193788/192165178-1cbb9ab3-d12a-4583-9b16-2cc7386384bc.jpg)
 
 
 ## Autor: 
