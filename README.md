@@ -8,6 +8,9 @@ Projeto de loja de doces. O projeto foi criado usando componentes de css, js e w
 ## Tech/Framework Used
 * HTML
 * CSS
+* SCSS
+* Bootstrap
+* PHP
 * JavaScript
 * Web Components
 
@@ -16,5 +19,4 @@ Projeto de loja de doces. O projeto foi criado usando componentes de css, js e w
 ![gif (1)](https://user-images.githubusercontent.com/81193788/192165688-b2df55cd-e79d-4ce0-901e-731526e58dd7.gif)
 
 ## Autor: 
-[![Amanda Alcanjo](https://img.shields.io/badge/amanda_alcanjo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alcanjo/)
-
+[Amanda Alcanjo](https://portfolio-amandalcanjo.netlify.app/)
