@@ -10,7 +10,6 @@ Projeto de loja de doces. O projeto foi criado usando componentes de css, js e w
 * CSS
 * SCSS
 * Bootstrap
-* PHP
 * JavaScript
 * Web Components
 
